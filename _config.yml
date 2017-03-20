@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Antonio Molner Domenech
+description: My personal portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Antonio Molner Domenech
+user_description: I am a Computer Science Degree student and enthusiastic app developer. I started to learn game programming when I was a teenager. Since then I have never stop to learn new things and to accept new challenges. I have worked in several personal and professional projects using different technologies, such as Augmented Reality or Geospatial data. Recently I started to learn Google Tango and Hololens technologies to boost my career.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+email: antoniomdk@hotmail.com
+twitter_username: antonio_molner
+github_username:  antoniomdk
 gplus_username:  lorem_ipsum
 
 # Google-analytics

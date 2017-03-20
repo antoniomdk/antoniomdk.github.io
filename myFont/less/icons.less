@@ -1,0 +1,14 @@
+// Icons
+// -------------------------
+
+
+[data-icons8]:before,
+.icons8-unity-filled:before,
+.icons8-unreal-engine-filled:before,
+{ .icons8-font(); }
+
+[data-icons8]:before { content: attr(data-icons8); }
+
+.icons8-unity-filled:before { content: "@{icons8-var-unity-filled}"; }
+.icons8-unreal-engine-filled:before { content: "@{icons8-var-unreal-engine-filled}"; }
+
